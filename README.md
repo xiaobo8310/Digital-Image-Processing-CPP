@@ -1,4 +1,4 @@
-# Digital-Image-Processing-VC-
+# Digital-Image-Processing
 Digital Image Processing/数字图像处理
 
 这是关于中国邮电出版社 何斌《Visual C++ 数字图像处理》一书的读书笔记以及代码库
